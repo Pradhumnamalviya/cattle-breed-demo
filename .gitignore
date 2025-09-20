@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore model weights (optional, if not using Git LFS)
+*.pt
+
+# Ignore large binaries
+*.dll
+*.lib
+*.exe
